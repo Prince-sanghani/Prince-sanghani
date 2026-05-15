@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**Prince-sanghani/Prince-sanghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer building AI-powered apps and modern digital products.
+Founder of PrinceLabs.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- TypeScript
+- Angular
+- Ionic
+- AI APIs
+- Android Studio
+
+## Featured Projects
+
+### LifeDiary
+A modern journaling app focused on simplicity and emotional reflection.
+
+### MergePDF
+Simple and fast PDF merging utility for Android.
+
+### AI Notes
+AI-powered note summarizer and productivity companion.
+
+## Currently Working On
+
+- Building PrinceLabs ecosystem
+- Android apps
+- AI integrations
+- Learning Artificial inteligence and Machine Learning
+
+## Contact
+
+- Website: princelabs.in
+- Email: Princesanghani88@gmail.com
